@@ -3,6 +3,7 @@
 I used Jetbrains IntelliJ / Java for my IDE / language.
 I zipped the project, built an executable jar, and uploaded both to this repo.
 In order to run the project, download the jar and run it.
+(don't forget to go to the task manager and end the "Java(TM) Platform SE binary" background process)
 
 The URL is localhost:8080/counter
 
