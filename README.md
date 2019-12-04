@@ -8,7 +8,7 @@ The URL is localhost:8080/counter
 
 I have the values defaulted to id=1&message=demo
 
-If you want to add more to the counter, the URL is localhost:8080/counter?id=<int>&message=<string>
+If you want to add more to the counter, the URL is localhost:8080/counter?id=int&message=string
 
 Due to the hustle/bustle of thanksgiving/black friday, I didn't get a chance to start on this until late Tuesday night 
 and spent more time creating a github account/uploading the project than actually doing the project.
